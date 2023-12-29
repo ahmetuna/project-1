@@ -1,0 +1,17 @@
+body {
+    /* Sayfa içeriğini merkezlemek için metin hizalaması */
+    text-align: center;
+}
+
+#board {
+    /* Oyun tahtası (canvas) stil özellikleri */
+
+    /* Arka plan rengi: Siyah */
+    background-color: black;
+
+    /* Üst kenarlık: 5 piksel kalınlığında, gökyüzü mavisi renk */
+    border-top: 5px solid skyblue;
+
+    /* Alt kenarlık: 5 piksel kalınlığında, gökyüzü mavisi renk */
+    border-bottom: 5px solid skyblue;
+}
